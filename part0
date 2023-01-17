@@ -15,4 +15,4 @@ flowchart LR
     id4 -.- id5
     id6 --> id7
 ```
-### I
+### The -.- conections of the 3 blocks mean their actions happen at the same time, I think?!? ###
